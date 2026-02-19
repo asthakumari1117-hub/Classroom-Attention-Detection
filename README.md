@@ -25,7 +25,8 @@ An AI-powered classroom monitoring system that detects student attention using A
 **Implementation File:** `classroom_watch_AI.py
 
 
-   APP
+
+APP ------Classroom Attention System 🎓📊
 ## Features
 - 📷 Real-time camera capture
 - 🧠 Attention detection (Focused / Looking Away / Sleeping)

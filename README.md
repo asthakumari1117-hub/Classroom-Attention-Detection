@@ -1,7 +1,32 @@
 # Classroom Attention System 🎓📊
 
-An AI-powered classroom monitoring system that detects student attention using Azure Custom Vision.
 
+                         ##classroom_watch_AI
+## ⏱️ Study-Time Monitoring (Live Camera Mode)
+
+ClassWatch AI includes a study-purpose live camera feature to monitor
+student attention during study sessions.
+
+### How it Works:
+- The camera turns ON when the study session starts
+- The student studies in front of the camera
+- After **5 minutes**, the system automatically captures an image
+- The captured image is analyzed using Azure Custom Vision
+- The system detects whether the student is:
+  - Focused (Studying)
+  - Sleeping
+  - Looking Away
+
+
+This feature helps in monitoring continuous student engagement during
+self-study or classroom study time.
+
+
+An AI-powered classroom monitoring system that detects student attention using Azure Custom Vision.
+**Implementation File:** `classroom_watch_AI.py
+
+
+                       ## APP
 ## Features
 - 📷 Real-time camera capture
 - 🧠 Attention detection (Focused / Looking Away / Sleeping)
